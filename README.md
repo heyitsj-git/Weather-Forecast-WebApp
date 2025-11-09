@@ -31,6 +31,7 @@ https://api.openweathermap.org/data/2.5/weather?units=metric
 
 **Example Endpoint:**  
 https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=YOUR_API_KEY&units=metric
+
 Simply replace `YOUR_API_KEY` with your own key from [OpenWeatherMap](https://openweathermap.org/api).  
 
 ---
