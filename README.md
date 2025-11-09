@@ -37,12 +37,12 @@ Simply replace `YOUR_API_KEY` with your own key from [OpenWeatherMap](https://op
 
 ## ⚙️ Features  
 
-✅ **Live Weather Data** — Instantly get temperature, humidity, and condition updates for any city.  
-✅ **Location-Based Access** — Automatically detect and display weather data for your current location (with permission).  
-✅ **Manual Search** — Search for weather in any city across the world.  
-✅ **Day/Night Mode** — Visually dynamic design that changes based on time of day.  
-✅ **Error Handling** — Clear alerts for invalid city names or denied location access.  
-✅ **Fully Responsive** — Works seamlessly across desktop, tablet, and mobile screens.  
+**Live Weather Data** — Instantly get temperature, humidity, and condition updates for any city.  
+**Location-Based Access** — Automatically detect and display weather data for your current location (with permission).  
+**Manual Search** — Search for weather in any city across the world.  
+**Day/Night Mode** — Visually dynamic design that changes based on time of day.  
+**Error Handling** — Clear alerts for invalid city names or denied location access.  
+**Fully Responsive** — Works seamlessly across desktop, tablet, and mobile screens.  
 
 ---
 
@@ -61,7 +61,7 @@ Simply replace `YOUR_API_KEY` with your own key from [OpenWeatherMap](https://op
    git clone https://github.com/your-username/Weather-App-Project.git
    ```
 2. **Navigate to the project folder**
-```bash
-cd Weather-App-Project
-```
+   ```bash
+   cd Weather-App-Project
+   ```
 3. **Open index.html in your browser and explore the app!**
