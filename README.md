@@ -37,12 +37,12 @@ Simply replace `YOUR_API_KEY` with your own key from [OpenWeatherMap](https://op
 
 ## ⚙️ Features  
 
-**Live Weather Data** — Instantly get temperature, humidity, and condition updates for any city.  
-**Location-Based Access** — Automatically detect and display weather data for your current location (with permission).  
-**Manual Search** — Search for weather in any city across the world.  
-**Day/Night Mode** — Visually dynamic design that changes based on time of day.  
-**Error Handling** — Clear alerts for invalid city names or denied location access.  
-**Fully Responsive** — Works seamlessly across desktop, tablet, and mobile screens.  
+1. **Live Weather Data** — Instantly get temperature, humidity, and condition updates for any city.  
+2. **Location-Based Access** — Automatically detect and display weather data for your current location (with permission).  
+3. **Manual Search** — Search for weather in any city across the world.  
+4. **Day/Night Mode** — Visually dynamic design that changes based on time of day.  
+5. **Error Handling** — Clear alerts for invalid city names or denied location access.  
+6. **Fully Responsive** — Works seamlessly across desktop, tablet, and mobile screens.  
 
 ---
 
