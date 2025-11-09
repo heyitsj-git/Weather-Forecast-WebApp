@@ -1,43 +1,67 @@
-# Weather-App-Project
-Programming Languages Used:
-$HTML
-$CSS
-$JAVASCRIPT
+# 🌤️ Weather Web Application  
 
------------------------------------------------APP DESIGN BY CSS-------------------------------------------------------
+A sleek, responsive weather application built using **HTML**, **CSS**, and **JavaScript**, powered by the **OpenWeatherMap API**.  
+Get real-time weather updates for any city or your current location — with a stunning day and night theme that adapts beautifully to the time of day.  
 
-DAY TIME DESIGN:
-![DAY TIME APP CHECK](https://github.com/user-attachments/assets/66827b6b-50ca-4907-b65e-74d3ac8d911a)
+---
 
+## 💻 Technologies Used  
 
-NIGHT TIME DESIGN:
-![NIGHT TIME APP CHECK](https://github.com/user-attachments/assets/08777885-de16-40e1-8a43-b125628d7185)
+- **HTML5** – for a clean and semantic structure  
+- **CSS3** – for modern, responsive, and dynamic UI design  
+- **JavaScript (ES6)** – for API handling, interactivity, and dynamic updates  
 
---------------------------------------------------API INFORMATION---------------------------------------------------------
+---
 
-API KEY USED BY ME: b6e0d09c3ed9098f2baf2d882716acc1
+## 🎨 App Design  
 
-API URL USED BY ME: https://api.openweathermap.org/data/2.5/weather?units=metric
+**🌞 Day Mode:** Bright, fresh visuals that capture the warmth of daylight.  
+**🌙 Night Mode:** Cool, dark aesthetics for a smooth nighttime experience.  
 
-Link to access weather deatils of city: https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b6e0d09c3ed9098f2baf2d882716acc1&units=metric
+The app automatically adjusts its theme based on real-time weather conditions and time of day — ensuring an immersive and elegant experience every time.  
 
-Output:
-![Screenshot (25)](https://github.com/user-attachments/assets/4a37004c-378c-41bb-8663-4be8274fc4f7)
+---
 
-----------------------------------------------Features & Error Handling------------------------------------------------------
+## 🔗 API Integration  
 
-IF USER GIVES ACCESS TO LOCATION THEN WEATHER DATA WILL SHOW:
+This app uses the **OpenWeatherMap API** to fetch accurate and up-to-date weather data.  
 
-![Screenshot (21)](https://github.com/user-attachments/assets/2170ed7b-d6b0-4ce9-a3c0-7e71bd682b46)
+**API Base URL:**  
+https://api.openweathermap.org/data/2.5/weather?units=metric
 
-RESPONSIVE UI:
+**Example Endpoint:**  
+https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=YOUR_API_KEY&units=metric
+Simply replace `YOUR_API_KEY` with your own key from [OpenWeatherMap](https://openweathermap.org/api).  
 
-![Screenshot (24)](https://github.com/user-attachments/assets/e022aa91-8db8-49ba-9709-58b3e747b3a0)
+---
 
+## ⚙️ Features  
 
-IF USER DIDN'T ALLOWED ACCESS TO LOCATION:
+✅ **Live Weather Data** — Instantly get temperature, humidity, and condition updates for any city.  
+✅ **Location-Based Access** — Automatically detect and display weather data for your current location (with permission).  
+✅ **Manual Search** — Search for weather in any city across the world.  
+✅ **Day/Night Mode** — Visually dynamic design that changes based on time of day.  
+✅ **Error Handling** — Clear alerts for invalid city names or denied location access.  
+✅ **Fully Responsive** — Works seamlessly across desktop, tablet, and mobile screens.  
 
-![Screenshot (22)](https://github.com/user-attachments/assets/cc2a4c74-345f-4644-94e5-9165e04f6d44)
+---
 
+## 🚨 Error Handling  
 
+- If **location access** is **granted**, the app automatically displays weather for the user’s current city.  
+- If **access is denied**, users can manually enter a city name to get weather details.  
+- Displays user-friendly messages for invalid input or connection issues.  
 
+---
+
+## 📁 Project Setup  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/Weather-App-Project.git
+   ```
+2. **Navigate to the project folder**
+```bash
+cd Weather-App-Project
+```
+3. **Open index.html in your browser and explore the app!**
